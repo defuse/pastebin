@@ -9,5 +9,6 @@ but with some modification you should be able to get it to work:
 - Set up the apache redirection rules.
 - pastebin.html is supposed to be a PHP file with the homepage (this was
   ripped out of my CMS so it's missing the HTML &lt;head&gt; and stuff.
+- Lots of other stuff I'm probably forgetting.
 
 Good luck!
