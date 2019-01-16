@@ -1,6 +1,8 @@
 Defuse.ca's Pastebin
 ====================
 
+**WARNING: I am no longer maintaining this code. There may be unfixed security vulnerabilities.**
+
 This code is ripped out of defuse.ca's pastebin. It does not work on its own
 but with some modification you should be able to get it to work:
 
